@@ -1,4 +1,4 @@
-# Joe's Completed Koans: http://joe-vanleeuwen.github.io/javascript-koans #
+# Joe's Completed Koans: http://joe-vanleeuwen.github.io/javascript-koans/KoansRunner.html #
 
 Based on Edgecase's fantastic 
 [Ruby koans](http://github.com/edgecase/ruby_koans), the goal of the
